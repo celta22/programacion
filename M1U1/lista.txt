@@ -1,3 +1,6 @@
 papas	
 cebollas 
 zanahorias
+
+bananas
+manzanas
