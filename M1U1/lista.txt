@@ -1,7 +1,6 @@
 papas	
 cebollas 
 zanahorias
-
 bananas
 manzanas
 cubiertos
