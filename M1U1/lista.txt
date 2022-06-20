@@ -4,3 +4,6 @@ zanahorias
 
 bananas
 manzanas
+cubiertos
+vasos
+platos
