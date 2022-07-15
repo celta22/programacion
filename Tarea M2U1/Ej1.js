@@ -1,3 +1,3 @@
-function cambiarfondo(color) {
+function cambiarFondo(color) {
     document.querySelector('body').style.background = color;
 }
